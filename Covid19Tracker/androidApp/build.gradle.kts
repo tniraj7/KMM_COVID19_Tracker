@@ -43,7 +43,7 @@ dependencies {
 android {
     compileSdkVersion(30)
     defaultConfig {
-        applicationId = "jp.co.rakuten.covid19tracker.android"
+        applicationId = "com.nirajtiwari.covid19tracker.android"
         minSdkVersion(26)
         targetSdkVersion(30)
         versionCode = 1
